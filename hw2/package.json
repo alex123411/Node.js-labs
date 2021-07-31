@@ -1,0 +1,22 @@
+{
+  "name": "hw2",
+  "version": "0.0.1",
+  "description": "homework2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alext",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.30.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
